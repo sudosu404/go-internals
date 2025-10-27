@@ -1,1 +1,1 @@
-# go internals
+# Getting started
